@@ -3,6 +3,9 @@ Claymore's ZCash AMD GPU Miner
 
 =========================
 
+Latest version v12.6 - BTG
+- Added support for BTG
+
 Latest version v12.6:
 
 - added Vega cards support (ASM mode).
@@ -268,7 +271,7 @@ Place one option per line, if first character of a line is ";" or "#", this line
 
 SAMPLE USAGE
 
-   ZecMiner64.exe -zpool zec-eu1.nanopool.org:6666 -zwal YOUR_WALLET_ADDRESS.YOUR_WORKER_NAME/YOUR_EMAIL -zpsw x
+   ZecMiner64.exe -zpool eu.pool.gold:3044 -zwal YOUR_WALLET_ADDRESS.YOUR_WORKER_NAME/YOUR_EMAIL -zpsw x
 
 
 
