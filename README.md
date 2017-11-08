@@ -1,5 +1,9 @@
 # ClaymoreZECMiner
-Claymore's ZCash AMD GPU Miner
+Claymore's Bitcoin Gold AMD GPU Miner
+
+[Download Windows BTG AMD Miner](https://github.com/poolgold/ClaymoreBTGMiner/releases/download/v12.6-BTG/Claymore.s.BTG.AMD.GPU.Miner.v12.6.zip)
+
+[Download Linux BTG AMD Miner](https://github.com/poolgold/ClaymoreBTGMiner/releases/download/v12.6-BTG/Claymore.s.BTG.AMD.GPU.Miner.v12.6.-.LINUX.zip)
 
 =========================
 
