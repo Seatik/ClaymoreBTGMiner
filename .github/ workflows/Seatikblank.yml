@@ -1,4 +1,4 @@
-name: CI
+Seatik: CI
 
 on: [push]
 
